@@ -1,0 +1,11 @@
+.grandpa div,.grandpa{
+    border: 2px solid rgb(194, 209, 153);
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+}
+.flex{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    
+}
